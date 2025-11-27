@@ -1,0 +1,4 @@
+service: web-app
+replicas: 3
+environment: production
+enableCache: true
