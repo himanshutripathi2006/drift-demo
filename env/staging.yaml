@@ -1,0 +1,4 @@
+service: web-app
+replicas: 2
+environment: staging
+enableCache: true
