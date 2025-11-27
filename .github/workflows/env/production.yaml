@@ -1,0 +1,3 @@
+service: api
+replicas: 3
+image: myapp:v1
